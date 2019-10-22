@@ -1,0 +1,13 @@
+Lesson 10
+---------
+
+In the last lesson you'll add an enemy that threaten the hero, but also an ability for it to fight back.
+
+All changes in this lesson are in either `Hero.lua` or `Enemy.lua`. Also the 2 enemies was added to
+`map_2.lua`
+
+
+Topics
+------
+- enemy
+- stomping
